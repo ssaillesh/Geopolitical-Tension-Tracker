@@ -1,1 +1,2 @@
 # Geopolitical-Tension-Tracker
+#This project aims to track and visualize ongoing geopolitical tensions, focusing on diplomatic conflicts (such as trade disputes, tariffs, sanctions, and export bans) and military conflicts (ongoing wars and territorial disputes). The system regularly updates data every other week, presenting the information on an interactive map, charts, and tables to provide users with a comprehensive view of global geopolitical dynamics
